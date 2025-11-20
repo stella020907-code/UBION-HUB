@@ -60,6 +60,17 @@ const MOCK_PROJECTS: Project[] = [
     imagePlaceholder: 'https://picsum.photos/seed/story/400/300',
     model: 'Gemini 2.5 Flash',
     rating: 4.6,
+  },
+  {
+    id: 'p005',
+    title: 'AI 학습 멘토',
+    creator: 'Ubion Mentor',
+    description: '모르는 문제를 질문하면 친절하게 설명해주는 AI 멘토입니다.',
+    link: 'https://ai.studio/apps/drive/1lNLEP8V_aUM4CLMOuHSs5SDOnqsugkSb?fullscreenApplet=true',
+    category: 'Education',
+    imagePlaceholder: 'https://picsum.photos/seed/mentor/400/300',
+    model: 'Gemini 2.5 Pro',
+    rating: 4.9,
   }
 ];
 
